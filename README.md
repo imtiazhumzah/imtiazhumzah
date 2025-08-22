@@ -44,11 +44,16 @@ AI-powered healthcare app for classifying skin lesions.
 
 ---
 
-### 🎥 Movie Recommender System *(to be uploaded)*  
-Built a recommendation engine using **collaborative filtering & content-based filtering**.  
-- Python, Pandas, Scikit-Learn  
-- Streamlit app for demo  
-- Demonstrates full ML pipeline from preprocessing → model → deployment  
+### 🎥 🔹 Overview
+DocuVision QA is an intelligent assistant that enables question answering over technical PDFs containing text, tables, and figures. It combines OCR + table extraction + image captioning with multimodal retrieval-augmented generation (RAG), ensuring answers are grounded in the source document with citations and highlighted snippets.
+
+🔹 Key Features
+
+- 📄 PDF Parsing: Extracts text, tables, and figures with OCR & captioning.
+- 🔍 Dual Indexing: Maintains text + image indexes for hybrid retrieval.
+- 🧠 Fusion Retrieval + Reranking: Uses cross-encoders for more accurate results.
+- 📝 Contextual Answers: Provides concise, grounded responses with citations.
+- 🎯 Applications: Research papers, legal documents, technical manuals, healthcare records.
 
 ---
 
