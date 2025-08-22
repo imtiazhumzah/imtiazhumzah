@@ -24,11 +24,11 @@ I specialize in **Deep Learning, Computer Vision, and Data Science**, and I’m 
 
 ## 🛠️ Tech Stack  
 
-**Languages:** Python, Java, SQL, C/C++, Excel  
-**ML/DL:** TensorFlow, PyTorch, Scikit-Learn  
-**Data Science:** Pandas, NumPy, Matplotlib, Power BI  
-**Visualization:** Tableau, Power BI  
-**DevOps & Deployment:** Docker, Git, Streamlit, Flask, Hugging Face  
+- Languages: Python, Java, SQL, C/C++, Excel  
+- ML/DL: TensorFlow, PyTorch, Scikit-Learn  
+- Data Science: Pandas, NumPy, Matplotlib, Power BI  
+- Visualization: Power BI, Seaborn  
+- DevOps & Deployment: Docker, Git, Streamlit, Flask, Hugging Face  
 
 ---
 
