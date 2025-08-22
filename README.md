@@ -44,7 +44,7 @@ AI-powered healthcare app for classifying skin lesions.
 
 ---
 
-### 🎥 🔹 DocuVision-QA
+### 🎥 🔹 DocuVision-QA(https://github.com/imtiazhumzah/DocuVision-QA)
 DocuVision QA is an intelligent assistant that enables question answering over technical PDFs containing text, tables, and figures. It combines OCR + table extraction + image captioning with multimodal retrieval-augmented generation (RAG), ensuring answers are grounded in the source document with citations and highlighted snippets.
 
 🔹 Key Features
