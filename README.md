@@ -58,10 +58,21 @@ DocuVision QA is an intelligent assistant that enables question answering over t
 ---
 
 ### 🚢 Maritime Fleet Optimization *(case study)*  
-Optimizing operational performance using **clustering**.  
-- Preprocessing & feature selection  
-- K-Means clustering  
-- Business insights via Matplotlib & Seaborn  
+Efficient maritime fleet management is critical for reducing operational costs, improving vessel utilization, and ensuring sustainable shipping practices. This case study applies data-driven optimization techniques to a fleet dataset to uncover operational inefficiencies and propose actionable strategies for improvement.
+
+The project leverages clustering algorithms, exploratory data analysis (EDA), and visualization techniques to identify vessel groupings, operational bottlenecks, and potential savings opportunities. The findings are translated into business recommendations that can guide decision-making for shipping companies.
+
+🔑 Key Features
+
+- Data Cleaning & Preprocessing
+- Feature Engineering
+- Derived KPIs such as Fuel Efficiency Index (FEI), Cargo Utilization Rate, and Maintenance Cost Ratio.
+- Clustering Analysis
+- Applied K-Means to identify optimal ship clusters.
+- Validated with Elbow Method & Silhouette Score.
+- Visualization Dashboard
+- Fleet distribution plots, efficiency heatmaps, and route comparisons.
+- Actionable Insights
 
 ---
 
