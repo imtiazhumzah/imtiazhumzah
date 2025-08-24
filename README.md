@@ -89,7 +89,7 @@ I’m passionate about continuous learning and contributing to innovative projec
 - ✉️ Email: **imtiazhumzah@gmail.com**  
 - 💼 LinkedIn: [Imtiaz Ali](https://www.linkedin.com/in/imtiaz-ali-ab11162a5/)  
 - 🐙 GitHub:   [imtiazhumzah](https://github.com/imtiazhumzah)  
-
+- [Kaggle](https://www.kaggle.com/imtiazhumzah)
 ---
 
 ⭐ *“Always learning. Always building. Always remote-ready.”*  
