@@ -1,93 +1,61 @@
-# Welcome to My GitHub Profile  
+# 🩺 Imtiaz Ali | Machine Learning Engineer 🚀
 
-Hi, I'm **Imtiaz Ali** — a **Machine Learning Engineer** with an MS in Computer Science and a background in Computer Systems Engineering.  
-I specialize in **Deep Learning, Computer Vision, and Data Science**, and I’m passionate about building **end-to-end AI solutions** that solve real-world problems.  
-Currently extending my expertise through advanced bootcamps in **ML, MLOps, Generative AI, and Data Analytics**, while contributing projects that demonstrate both **technical depth** and **practical deployment**.  
+<p align="left">
+  <img src="https://img.shields.io/badge/MS_Computer_Science-ML_%26_GANs-blue?style=for-the-badge&logo=googlescholar" />
+  <img src="https://img.shields.io/badge/Remote_Ready-Success-green?style=for-the-badge" />
+</p>
 
----
+Hi, I'm **Imtiaz Ali** — a Machine Learning Engineer specializing in **Deep Learning, Computer Vision, and Multimodal RAG**. I bridge the gap between academic research (MSCS) and production-ready AI solutions.
 
-## 🎓 Education  
-- **MS in Computer Science** – Research in Machine Learning & GANs  
-- **BE in Computer Systems Engineering**  
-
----
-
-## Interests & Focus Areas  
-- Machine Learning & Deep Learning (Transfer Learning, GANs, LLMs)  
-- Computer Vision (YOLO, ResNet, EfficientNet, OpenCV)  
-- Data Science & Analytics  
-- Cloud & MLOps (Docker, AWS, CI/CD, Streamlit/Flask apps)  
-- Remote-first, collaborative development  
+Currently, I am focused on building high-recall medical diagnostics and intelligent document processing systems while mastering MLOps and Generative AI.
 
 ---
 
-## Tech Stack  
+## 🛠️ Tech Stack & Tooling
 
-- Languages: Python, Java, SQL, C/C++, Excel  
-- ML/DL: TensorFlow, PyTorch, Scikit-Learn  
-- Data Science: Pandas, NumPy, Matplotlib, Power BI  
-- Visualization: Power BI, Seaborn  
-- DevOps & Deployment: Docker, Git, Streamlit, Flask, Hugging Face  
-
----
-
-## Featured Projects  
-
-### [DermAI: Skin Disease Detection](https://github.com/imtiazhumzah/Final-project)  
-AI-powered healthcare app for classifying skin lesions.  
-- Transfer learning with **ResNet50 & EfficientNet**  
-- Preprocessing with OpenCV  
-- Streamlit/Flask interface for interactive demo  
-- Dataset: HAM10000  
-> 🔑 Keywords: Deep Learning, Medical AI, Computer Vision  
+| Category | Tools & Technologies |
+| :--- | :--- |
+| **AI / Machine Learning** | PyTorch, TensorFlow, Scikit-Learn, ConvNeXt, EfficientNet, YOLO |
+| **Generative AI & LLMs** | Multimodal RAG, LangChain, OCR & Table Extraction, Vector DBs |
+| **Data Science** | Pandas, NumPy, Matplotlib, Seaborn, Power BI |
+| **Deployment & MLOps** | Docker, Hugging Face Spaces, Streamlit, Flask, Git, CI/CD |
+| **Languages** | Python (Expert), SQL, Java, C/C++ |
 
 ---
 
-### [DocuVision-QA].(https://github.com/imtiazhumzah/DocuVision-QA)
-DocuVision QA is an intelligent assistant that enables question answering over technical PDFs containing text, tables, and figures. It combines OCR + table extraction + image captioning with multimodal retrieval-augmented generation (RAG), ensuring answers are grounded in the source document with citations and highlighted snippets.
+## 🌟 Featured Projects
 
-🔹 Key Features
+### [🩺 Clinical-Grade Melanoma Detection](https://github.com/imtiazhumzah/Skin-Cancer-Detection-ConvNeXt)
+**High-Sensitivity Medical Triage System**
+* **The Problem:** Standard CNNs often miss rare malignant cases in imbalanced medical data.
+* **The Solution:** Developed a **ConvNeXt-Tiny** pipeline with **Weighted Focal Loss** and **Patient-Level Splitting** to prevent data leakage.
+* **Impact:** Achieved **91% Recall for Melanoma** on unseen test patients. Integrated **Guided Grad-CAM** for clinical explainability.
+> `PyTorch` `XAI` `Medical AI` `Hugging Face`
 
-- PDF Parsing: Extracts text, tables, and figures with OCR & captioning.
-- Dual Indexing: Maintains text + image indexes for hybrid retrieval.
-- Fusion Retrieval + Reranking: Uses cross-encoders for more accurate results.
-- Contextual Answers: Provides concise, grounded responses with citations.
-- Applications: Research papers, legal documents, technical manuals, healthcare records.
+### [📄 DocuVision-QA](https://github.com/imtiazhumzah/DocuVision-QA)
+**Multimodal Intelligent Document Assistant**
+* Developed a RAG-based system that "sees" documents—extracting text, tables, and figures using **OCR and Image Captioning**.
+* Implemented **Fusion Retrieval** with Cross-Encoders to ground LLM responses in technical source material with citations.
+> `LLMs` `RAG` `Computer Vision` `LangChain`
 
----
-
-### Maritime Fleet Optimization *(case study)*  
-Efficient maritime fleet management is critical for reducing operational costs, improving vessel utilization, and ensuring sustainable shipping practices. This case study applies data-driven optimization techniques to a fleet dataset to uncover operational inefficiencies and propose actionable strategies for improvement.
-
-The project leverages clustering algorithms, exploratory data analysis (EDA), and visualization techniques to identify vessel groupings, operational bottlenecks, and potential savings opportunities. The findings are translated into business recommendations that can guide decision-making for shipping companies.
-
-🔑 Key Features
-
-- Data Cleaning & Preprocessing
-- Feature Engineering
-- Clustering Analysis
-- Applied K-Means to identify optimal ship clusters.
-- Validated with Elbow Method & Silhouette Score.
-- Fleet distribution plots, efficiency heatmaps, and route comparisons.
-
+### [🚢 Maritime Fleet Optimization](https://github.com/imtiazhumzah/Maritime-Fleet-Optimization)
+**Unsupervised Learning for Operational Efficiency**
+* Applied **K-Means Clustering** (validated via Elbow/Silhouette scores) to identify vessel groupings and operational bottlenecks.
+* Translated raw maritime data into actionable business recommendations for cost reduction and sustainable shipping.
+> `Clustering` `EDA` `Business Intelligence` `Data Analytics`
 
 ---
 
-## Collaboration & Growth  
+## 🎓 Education & Research
+* **MS in Computer Science** – Specialization in ML & Generative Adversarial Networks (GANs).
+* **BE in Computer Systems Engineering**.
 
-I’m passionate about continuous learning and contributing to innovative projects.  
-- Open to **remote roles** in ML, AI, and Data Science  
-- Keen to collaborate on **AI research, healthcare ML, and open-source projects**  
+## 📫 Connect with Me
+- 💼 **LinkedIn:** [Imtiaz Ali](https://www.linkedin.com/in/imtiaz-ali-ab11162a5/)
+- 📧 **Email:** imtiazhumzah@gmail.com
+- 📊 **Kaggle:** [imtiazhumzah](https://www.kaggle.com/imtiazhumzah)
 
 ---
-
-## Get in Touch  
-
--  Email:    **imtiazhumzah@gmail.com**  
--  LinkedIn: [Imtiaz Ali](https://www.linkedin.com/in/imtiaz-ali-ab11162a5/)  
--  GitHub:   [imtiazhumzah](https://github.com/imtiazhumzah)  
--  Kaggle:   [Kaggle](https://www.kaggle.com/imtiazhumzah)
-  
----
-
-⭐ *“Always learning. Always building. Always remote-ready.”*  
+<p align="center">
+  ⭐ <i>"Always learning. Always building. Always remote-ready."</i>
+</p>
