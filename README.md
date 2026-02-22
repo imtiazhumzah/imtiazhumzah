@@ -1,9 +1,4 @@
-# 🩺 Imtiaz Ali | Machine Learning Engineer 🚀
-
-<p align="left">
-  <img src="https://img.shields.io/badge/MS_Computer_Science-ML_%26_GANs-blue?style=for-the-badge&logo=googlescholar" />
-  <img src="https://img.shields.io/badge/Remote_Ready-Success-green?style=for-the-badge" />
-</p>
+# Imtiaz Ali | Machine Learning Engineer 
 
 Hi, I'm **Imtiaz Ali** — a Machine Learning Engineer specializing in **Deep Learning, Computer Vision, and Multimodal RAG**. I bridge the gap between academic research (MSCS) and production-ready AI solutions.
 
@@ -23,9 +18,9 @@ Currently, I am focused on building high-recall medical diagnostics and intellig
 
 ---
 
-## 🌟 Featured Projects
+## Featured Projects
 
-### [🩺 Clinical-Grade Melanoma Detection](https://github.com/imtiazhumzah/Skin-Cancer-Detection-ConvNeXt)
+### [Clinical-Grade Melanoma Detection](https://github.com/imtiazhumzah/Skin-Cancer-Detection-ConvNeXt)
 **High-Sensitivity Medical Triage System**
 * **The Problem:** Standard CNNs often miss rare malignant cases in imbalanced medical data.
 * **The Solution:** Developed a **ConvNeXt-Tiny** pipeline with **Weighted Focal Loss** and **Patient-Level Splitting** to prevent data leakage.
@@ -50,12 +45,12 @@ Currently, I am focused on building high-recall medical diagnostics and intellig
 * **MS in Computer Science** – Specialization in ML & Generative Adversarial Networks (GANs).
 * **BE in Computer Systems Engineering**.
 
-## 📫 Connect with Me
-- 💼 **LinkedIn:** [Imtiaz Ali](https://www.linkedin.com/in/imtiaz-ali-ab11162a5/)
-- 📧 **Email:** imtiazhumzah@gmail.com
-- 📊 **Kaggle:** [imtiazhumzah](https://www.kaggle.com/imtiazhumzah)
+## Connect with Me
+- **LinkedIn:** [Imtiaz Ali](https://www.linkedin.com/in/imtiaz-ali-ab11162a5/)
+- **Email:** imtiazhumzah@gmail.com
+- **Kaggle:** [imtiazhumzah](https://www.kaggle.com/imtiazhumzah)
 
 ---
 <p align="center">
-  ⭐ <i>"Always learning. Always building. Always remote-ready."</i>
+  <i>"Always learning. Always building. Always remote-ready."</i>
 </p>
